@@ -15,12 +15,12 @@ export default function Home() {
         <div className="text-2xl flex justify-center gap-5 max-w-s mx-auto mt-9">
           <Link href="/faq-carer">
             <a className="border block text-cyan-800 p-4 rounded-lg hover:text-black bg-cyan-50 border-cyan-50">
-              carer's FAQ
+              carer FAQ
             </a>
           </Link>
           <Link href="/faq-client">
             <a className="border block text-cyan-800 p-4 rounded-lg hover:text-black bg-cyan-50 border-cyan-50">
-              client's FAQ
+              client FAQ
             </a>
           </Link>
         </div>
